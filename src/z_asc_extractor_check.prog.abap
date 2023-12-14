@@ -4,7 +4,7 @@
 *&
 *&---------------------------------------------------------------------*
 PROGRAM z_asc_extractor_check.
-*adding a new line for git push test
+*deleting the line for git test
 TABLES: roosource, roosfield, rodeltamt.
 
 DATA: okcode_100 TYPE sy-ucomm,
